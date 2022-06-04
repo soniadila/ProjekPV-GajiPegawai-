@@ -1,0 +1,7 @@
+D:\SONIA\sem 4\PV\PV\PV\obj\Debug\PV.csprojResolveAssemblyReference.cache
+D:\SONIA\sem 4\PV\PV\PV\obj\Debug\PV.MainForm.resources
+D:\SONIA\sem 4\PV\PV\PV\obj\Debug\PV.csproj.GenerateResource.Cache
+D:\SONIA\sem 4\PV\PV\PV\bin\Debug\PV.exe
+D:\SONIA\sem 4\PV\PV\PV\bin\Debug\PV.pdb
+D:\SONIA\sem 4\PV\PV\PV\obj\Debug\PV.exe
+D:\SONIA\sem 4\PV\PV\PV\obj\Debug\PV.pdb
